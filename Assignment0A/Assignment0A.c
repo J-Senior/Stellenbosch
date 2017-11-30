@@ -14,6 +14,6 @@
 #include <stdio.h>
 
 int main() {
-	printf("How very wet this water is.\n- L. Frank Baum\n\n");
+	printf("Hello world!");
 	return 0;
 }
